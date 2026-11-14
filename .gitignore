@@ -1,4 +1,5 @@
 .gitignore
 .DS_Store
+github_urls.csv
 执行opt.data.send.to.github同步
 
