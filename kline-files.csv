@@ -1,3 +1,6 @@
+file_name,raw_url
+kline-files.csv,https://raw.githubusercontent.com/H818268/lib/main/kline-files.csv
+kline/000001.1,https://raw.githubusercontent.com/H818268/lib/main/kline/000001.1
 kline/000063-05.gz,https://raw.githubusercontent.com/H818268/lib/main/kline/000063-05.gz
 kline/000063-15.gz,https://raw.githubusercontent.com/H818268/lib/main/kline/000063-15.gz
 kline/000063-30.gz,https://raw.githubusercontent.com/H818268/lib/main/kline/000063-30.gz
